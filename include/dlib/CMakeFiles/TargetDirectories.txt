@@ -1,8 +1,0 @@
-D:/Projects/dlib-19.17/dlib/CMakeFiles/PACKAGE.dir
-D:/Projects/dlib-19.17/dlib/CMakeFiles/INSTALL.dir
-D:/Projects/dlib-19.17/dlib/CMakeFiles/ALL_BUILD.dir
-D:/Projects/dlib-19.17/dlib/CMakeFiles/ZERO_CHECK.dir
-D:/Projects/dlib-19.17/dlib/dlib/CMakeFiles/dlib.dir
-D:/Projects/dlib-19.17/dlib/dlib/CMakeFiles/PACKAGE.dir
-D:/Projects/dlib-19.17/dlib/dlib/CMakeFiles/INSTALL.dir
-D:/Projects/dlib-19.17/dlib/dlib/CMakeFiles/ALL_BUILD.dir
